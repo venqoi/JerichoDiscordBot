@@ -1,0 +1,18 @@
+2022-08-11T15:34:49: PM2 log: ===============================================================================
+2022-08-11T15:34:49: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-08-11T15:34:49: PM2 log: Time                 : Thu Aug 11 2022 15:34:49 GMT+0200 (Central European Summer Time)
+2022-08-11T15:34:49: PM2 log: PM2 version          : 5.2.0
+2022-08-11T15:34:49: PM2 log: Node.js version      : 18.7.0
+2022-08-11T15:34:49: PM2 log: Current arch         : x64
+2022-08-11T15:34:49: PM2 log: PM2 home             : /home/container/.pm2
+2022-08-11T15:34:49: PM2 log: PM2 PID file         : /home/container/.pm2/pm2.pid
+2022-08-11T15:34:49: PM2 log: RPC socket file      : /home/container/.pm2/rpc.sock
+2022-08-11T15:34:49: PM2 log: BUS socket file      : /home/container/.pm2/pub.sock
+2022-08-11T15:34:49: PM2 log: Application log path : /home/container/.pm2/logs
+2022-08-11T15:34:49: PM2 log: Worker Interval      : 30000
+2022-08-11T15:34:49: PM2 log: Process dump file    : /home/container/.pm2/dump.pm2
+2022-08-11T15:34:49: PM2 log: Concurrent actions   : 2
+2022-08-11T15:34:49: PM2 log: SIGTERM timeout      : 1600
+2022-08-11T15:34:49: PM2 log: ===============================================================================
+2022-08-11T15:34:52: PM2 log: App [index:0] starting in -fork mode-
+2022-08-11T15:34:52: PM2 log: App [index:0] online

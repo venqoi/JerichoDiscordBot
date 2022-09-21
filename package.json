@@ -1,0 +1,48 @@
+{
+  "name": "jericho",
+  "version": "1.0.0",
+  "description": "A Multipurpose Discord Bot with many Cool Features",
+  "main": "./index.js",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "axios": "^0.27.2",
+    "bufferutil": "^4.0.6",
+    "crypto": "^1.0.1",
+    "discord-api-types": "^0.37.1",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "fs": "0.0.1-security",
+    "gamedig": "^4.0.5",
+    "humanize-duration": "^3.27.2",
+    "moment": "^2.29.4",
+    "mysql2": "^2.3.3",
+    "node-os-utils": "^1.3.7",
+    "nodemon": "^2.0.19",
+    "npm": "^8.17.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pm2": "^5.2.0",
+    "process": "^0.11.10",
+    "systeminformation": "^5.12.4",
+    "translate-google": "^1.5.0"
+  },
+  "scripts": {
+    "start": "npm run pmboot",
+    "nodeboot": "node index.js",
+    "nodemonboot": "nodemon index.js",
+    "pmboot": "npm run pmdelete && npm run pmlink && npm run pmstart && npm run pmlogs",
+    "pmlink": "pm2 link 7g4c7uhzdwr8pb0 qq8i65m4ekx5sbg",
+    "pmstart": "pm2 start index.js --max-memory-restart 4G",
+    "pmlogs": "pm2 flush index && pm2 logs index --timestamp --lines 1000",
+    "pmdelete": "pm2 link delete",
+    "lint": "eslint ./Source  --fix",
+    "serverStatus:update": "node resources/__gameStatusResources"
+  },
+  "keywords": [
+    "Jericho",
+    "Discord Bot",
+    "24/7 Music Player"
+  ],
+  "author": "Sid is Live YT",
+  "license": "ISC"
+}

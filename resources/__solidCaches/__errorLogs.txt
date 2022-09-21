@@ -1,0 +1,196 @@
+Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.refresh (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:197:27)
+    at async C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:169:18
+    at async Promise.all (index 0)
+    at async Function.refreshAll (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:167:31)
+    at async Function.__databaseConnectionInitiater (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:35:5)
+    at async Function.__capture (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:28:5)
+    at async Client.<anonymous> (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\index.js:59:3)
+
+Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.refresh (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:197:27)
+    at async C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:169:18
+    at async Promise.all (index 2)
+    at async Function.refreshAll (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:167:31)
+    at async Function.__databaseConnectionInitiater (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:35:5)
+    at async Function.__capture (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:28:5)
+    at async Client.<anonymous> (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\index.js:59:3)
+
+Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:41:57 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.refresh (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:197:27)
+    at async C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:169:18
+    at async Promise.all (index 1)
+    at async Function.refreshAll (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:167:31)
+    at async Function.__databaseConnectionInitiater (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:35:5)
+    at async Function.__capture (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:28:5)
+    at async Client.<anonymous> (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\index.js:59:3)
+
+Thu Aug 11 2022 20:51:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:51:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 20:51:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 21:01:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:01:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:01:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 21:11:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:11:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:11:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 21:21:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:21:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:21:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 21:31:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:31:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:31:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 21:41:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:41:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:41:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 21:51:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:51:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 21:51:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 22:01:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 22:01:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 22:01:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 22:11:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 22:11:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 22:11:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
+
+Thu Aug 11 2022 22:21:58 GMT-0400 (Eastern Daylight Time) | 
+ ErrorMessage: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 22:21:58 GMT-0400 (Eastern Daylight Time)
+ ErrorStack: TypeError: 
+  (:) raw Error Message: Cannot read properties of undefined (reading 'query')
+  (:) Category: DatabaseCore.__query Function
+  (:) Date and Time: Thu Aug 11 2022 22:21:58 GMT-0400 (Eastern Daylight Time)
+    at Function.__query (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:148:65)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.__inifinitePingAliveConnection (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\externalHandler\databaseCore.js:535:14)
+    at async Timeout._onTimeout (C:\Users\hexan\OneDrive\Desktop\Folders\Leaked Veri Bot\functions\coreHandler\internalHandler\__eventHolder.js:50:19)
